@@ -1,0 +1,1 @@
+echo "WELCOME TO MY PROJECT"
